@@ -1,6 +1,6 @@
-# 🧪 README Completo y Replicable - SQL Injection Manual y Automatizada
+# 🧪 Procedimiento Completo y Replicable - SQL Injection Manual y Automatizada
 
-Este documento contiene todos los pasos, herramientas, comandos y procedimientos utilizados para realizar prácticas de **inyección SQL manual y automatizada** con fines educativos y éticos, usando `Burp Suite`, `sqlmap`, `Firefox`, `DVWA` y `Docker` sobre Kali Linux.
+Este documento contiene todos los pasos, herramientas, comandos y procedimientos utilizados para realizar demostracion de **inyección SQL manual y automatizada**, usando `Burp Suite`, `sqlmap`, `Firefox`, `DVWA` y `Docker` sobre Kali Linux.
 
 ---
 
@@ -174,4 +174,4 @@ sudo apt install wireshark -y
 ## 👤 Autor
 
 **Cesar Ernesto Perdomo Guerrero**  
-Proyecto Académico 2025 - Seguridad en Aplicaciones Web
+Proyecto Final SDR UDB - Seguridad de bases de datos Inyecciones SQL Manuales y Automatizadas
